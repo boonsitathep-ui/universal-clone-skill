@@ -1,0 +1,7 @@
+interface:
+  display_name: "Universal Clone"
+  short_description: "Clone websites and apps with smart routing"
+  default_prompt: "Use $universal-clone to inspect my target, ask only essential questions, choose the lowest-cost safe workflow, and build a verified local clone."
+
+policy:
+  allow_implicit_invocation: true
